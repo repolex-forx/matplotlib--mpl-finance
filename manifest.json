@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "matplotlib",
+  "repo": "mpl-finance",
+  "versions": [
+    {
+      "commit": "d80c814a4c4fd74d679a7767aa752d8cb4e49cd7",
+      "parsed_at": "2026-10-15T20:50:08.509039+00:00",
+      "filetree": "filetree/d80c814a4c4fd74d679a7767aa752d8cb4e49cd7.nq.gz",
+      "blobs": [
+        "blob/b8454c6a23e47fa7470b42536499f576eceec308.nq.gz",
+        "blob/74e947b2752e41859c0294222aa85c0399e729ad.nq.gz",
+        "blob/d704446d5b738354f3ac29ac12850f3795190dd5.nq.gz",
+        "blob/da0db501f4159536717d1bc9bd9f10500c211a40.nq.gz",
+        "blob/d8ead5f0dfc0a740559ebbda332285a0f378e539.nq.gz",
+        "blob/a6d0a3a262d9520b226f56a4bc5367a080d78297.nq.gz",
+        "blob/c876859194a12f0cb143518cf7a4df7928b37421.nq.gz",
+        "blob/1415edb410b9f9059fab7d402ed2ff4db35bd1e8.nq.gz",
+        "blob/52e8c63b68c84962f4032415dcd3dd65a3229026.nq.gz",
+        "blob/64a000a6b947cc6be960401e00b7252950b1ca7b.nq.gz",
+        "blob/32edb395b09d4029f353558d9f496080e8eab652.nq.gz",
+        "blob/d0f6749667a9fed24527082ed10cfe11da0f9b6b.nq.gz",
+        "blob/bb8a341f30bd9ea5f599b2338a71524af22059d5.nq.gz",
+        "blob/2768e5f857493cdfd55a209c26711171aa5cb6b4.nq.gz",
+        "blob/3b9c3d1c9abb2221162d0e5a1d70ec7b2e75f152.nq.gz",
+        "blob/2423f3b185add7c947038bc2ca0f8623888cefa7.nq.gz",
+        "blob/71da9bbf1a043cb34c8757a410300b0d1f318c68.nq.gz",
+        "blob/beb04431cf3e693906a42160001968bec1b6fd74.nq.gz",
+        "blob/e0f28368c9ce2ca38b5747b7dff2c6a07f4bb363.nq.gz",
+        "blob/c6c4916b9d43c5a81007305567b2b59e1ec1eb10.nq.gz",
+        "blob/e2beda099c49c1258741e88934053a019cc22a22.nq.gz",
+        "blob/846eb456e23dae61beb5228f438f5a2550177045.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
