@@ -1,0 +1,11 @@
+{
+  "org": "matplotlib",
+  "repo": "mpl-finance",
+  "versions": [
+    {
+      "commit": "d80c814a4c4fd74d679a7767aa752d8cb4e49cd7",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:52:23.767938+00:00"
+    }
+  ]
+}
