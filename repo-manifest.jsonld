@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/matplotlib/mpl-finance/commit/d80c814a4c4fd74d679a7767aa752d8cb4e49cd7",
       "git:hexsha": "d80c814a4c4fd74d679a7767aa752d8cb4e49cd7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
